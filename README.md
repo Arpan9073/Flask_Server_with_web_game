@@ -22,6 +22,14 @@ Flask_python/
 - **static/main.js**: JavaScript file loaded by the HTML template. (Contains client-side logic or assets.)
 - **templates/index.html**: HTML template rendered for the home page.
 
+
+## Requirements
+
+
+-  **Python version required:** `3.13.3` or higher
+- **pip version required:** `26.0.1` or higher
+
+
 ## Setup Instructions
 
 1. **Clone the repository**
@@ -50,7 +58,6 @@ Flask_python/
 	```
 	The app will be available at [http://localhost:5000](http://localhost:5000) by default.
 
-## Requirements
 
 The main dependencies are:
 
